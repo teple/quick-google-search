@@ -1,0 +1,8 @@
+#rso > div > .rc {
+  box-shadow: none;
+}
+
+#rso > div > .rc.active {
+  transition: 0.2s;
+  box-shadow: 0px 4px 8px 0px #b6b6b6;
+}
