@@ -6,6 +6,8 @@ Google search support
 
 ## Usage
 
+### Keyboard shortcuts
+
 `J`: Move result down in the list
 
 `K`: Move result down in the list
