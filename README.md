@@ -22,3 +22,5 @@ Google search support
 2. Unzip downloaded file
 3. Move to chrome extensions page
 4. Turn on developer mode and load unzipped directory
+<img width="1001" alt="スクリーンショット 2020-05-11 1 56 46" src="https://user-images.githubusercontent.com/32691296/81505575-33ca6380-932b-11ea-9dfb-d2d425aa8f0b.png">
+
