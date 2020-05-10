@@ -16,6 +16,8 @@ Google search support
 
 `Command(or Ctrl) + /`: Jump to search box
 
+TODO: add Screenshots or Gifs
+
 ## Installation
 
 1. Download zip file from [link](https://github.com/teple/quick-google-search/files/4606148/bundle.zip)
