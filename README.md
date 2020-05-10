@@ -8,9 +8,9 @@ Google search support
 
 ### Keyboard shortcuts
 
-`J`: Move result down in the list
+`J`: Move selection up in the list
 
-`K`: Move result down in the list
+`K`: Move selection down in the list
 
 `O`: Redirect to result link
 
