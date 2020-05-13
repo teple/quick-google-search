@@ -94,7 +94,7 @@ document.body.addEventListener('keydown', (e) => {
   }
 
   const indexToCompare = ((index): number => {
-    return e.keyCode === KEY_CODE.KEY_J ? index - 1 : index + 1
+    return e.keyCode === KEY_CODE.KEY_J ? index + 1 : index - 1
   })(latestAnchorIndex)
 
   const nextIndex = ((indexToCompare, lastIndex, latestIndex): number => {
