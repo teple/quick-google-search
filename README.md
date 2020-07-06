@@ -8,17 +8,19 @@ Google search support
 
 ### Keyboard shortcuts
 
-`J`: Move selection down in the list
+- `J`: Move selection down in the list
+- `K`: Move selection up in the list
+![Kapture 2020-07-07 at 4 12 01](https://user-images.githubusercontent.com/32691296/86630735-2d452900-c008-11ea-9822-2eb6d3eba096.gif)
 
-`K`: Move selection up in the list
 
-`O`: Redirect to result link
+- `O`: Redirect to result link
+- `T`: Open new tab and redirect to result link
+![Kapture 2020-07-07 at 4 16 06](https://user-images.githubusercontent.com/32691296/86631055-9e84dc00-c008-11ea-9ac2-cbf669950c02.gif)
 
-`T`: Open new tab and redirect to result link
 
-`Command(or Ctrl) + /`: Jump to search box
+- `Command(or Ctrl) + /`: Jump to search box
+![Kapture 2020-07-07 at 4 17 41](https://user-images.githubusercontent.com/32691296/86631269-dd1a9680-c008-11ea-9087-391d0cd9e9d2.gif)
 
-TODO: add Screenshots or Gifs
 
 ## Installation
 
@@ -27,4 +29,3 @@ TODO: add Screenshots or Gifs
 3. Move to chrome extensions page
 4. Turn on developer mode and load unzipped directory
 <img width="1001" alt="スクリーンショット 2020-05-11 1 56 46" src="https://user-images.githubusercontent.com/32691296/81505575-33ca6380-932b-11ea-9dfb-d2d425aa8f0b.png">
-
