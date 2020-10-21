@@ -21,7 +21,7 @@ const KEY_CODE = {
 // 클래스네임 바뀔지도 모름
 const SELECTOR = {
   SEARCH_BOX: '#tsf > div:nth-child(2) > div.A8SBwf > div.RNNXgb > div > div.a4bIc > input',
-  SEARCH_RESULTS: '#rso > div > div > div.r > a',
+  SEARCH_RESULTS: '#rso > div > div > div.yuRUbf > a',
   MAIN: 'body > #main'
 } as const
 
